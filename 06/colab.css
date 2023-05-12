@@ -1,0 +1,38 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    text-decoration: none;
+}
+
+body{
+    background-color: pink;
+}
+
+h1{
+    font-family: 'Raleway', sans-serif;
+    color: #AF558E;
+    text-align: center;
+}
+
+img{
+    text-align: center;
+}
+
+p{
+    
+    font-family: 'Raleway', sans-serif;
+    padding: 5px;
+    border: #AF558E solid 3px;
+    background-color: white;
+}
+
+a{
+    font-size: 20px;
+    font-family: 'Raleway', sans-serif;
+    border: #AF558E solid 3px;
+    background-color:white;
+    color: #AF558E;
+    border-radius: 10px;
+    padding: 5px;
+}

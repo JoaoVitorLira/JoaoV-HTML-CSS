@@ -25,3 +25,13 @@ p{
     border: #AF558E solid 3px;
     background-color: white;
 }
+
+a{
+    font-size: 20px;
+    font-family: 'Raleway', sans-serif;
+    border: #AF558E solid 3px;
+    background-color:white;
+    color: #AF558E;
+    border-radius: 10px;
+    padding: 5px;
+}
