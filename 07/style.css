@@ -71,3 +71,20 @@ p{
     padding: 5px;
     border-radius: 15px; 
 }
+
+a{
+    font-size: 25px;
+    font-family: 'Raleway', sans-serif;
+    border: solid red 3px;
+    background-color: red;
+    color: black;
+    padding: 6px;
+    border-radius: 5px;
+    align-items: center;
+}
+
+.sos{
+    border: solid red 5px;
+    background-color: red;
+
+}
