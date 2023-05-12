@@ -1,7 +1,73 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    text-decoration: none;
+}
+
+
 #cabecalho{
     display: flex;
     gap: 130px ;
     justify-content: space-evenly;
     border: solid black 1px;
     align-items: center;
+    
+}
+
+.banner{
+    display: flex;
+    gap: 130px ;
+    justify-content: space-evenly;
+    align-items: center;
+    font-size: 30px;
+   
+}
+
+.esco{
+    font-size: 30px;
+    font-family: 'Raleway', sans-serif;
+    
+}
+
+.nss{
+font-size: 50px;
+font-family: 'Raleway', sans-serif;
+font-style: italic;
+}
+
+h2{
+    font-family: 'Raleway', sans-serif;
+}
+
+h1{
+    top: 35px;
+    font-family: 'Raleway', sans-serif;
+    text-align: center; 
+}
+
+p{
+    font-size: 20px;
+    font-family: 'Raleway', sans-serif;
+}
+
+#cursos{
+    background-color: red;
+    justify-content: center;
+    text-align: center;
+  
+}
+
+.cur{
+    font-family: 'Raleway', sans-serif;
+    color: rgb(0, 0, 0);
+    font-size: 20px;
+    display: flex;
+    text-align: center;
+    gap: 130px ;
+    border: solid white 3px;
+    display: inline;
+    background-color: white;
+    padding: 5px;
+    border-radius: 15px; 
 }
