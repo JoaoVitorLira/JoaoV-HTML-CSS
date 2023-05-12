@@ -1,0 +1,38 @@
+body{
+    background-color: darkseagreen;
+}
+  
+    p{
+        font-family: 'Roboto', sans-serif;
+        border-radius: 15px;
+        border: solid;
+        border-color: white;
+        background-color: white;
+    }
+
+    h1{
+        font-family: 'Roboto', sans-serif;
+        color:white;
+        border-radius: 15px;
+        border: solid;
+        border-color: darkgreen;
+        background-color:darkgreen;
+    }
+        
+    
+    fieldset{
+        background-color:darkgreen;
+    }
+
+    form{
+        font-family: 'Roboto', sans-serif;
+        color: white;
+    }
+
+    a{
+        font-family: 'Roboto', sans-serif;
+        color:crimson;
+    }
+    .bloco-1 img{
+        width: 1500px;
+    }

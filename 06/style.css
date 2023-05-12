@@ -1,0 +1,63 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    text-decoration: none;
+}
+
+
+.menu{
+    padding: 7px;
+}
+
+
+a{
+    font-size: 20px;
+    font-family: 'Raleway', sans-serif;
+    border: #AF558E solid 3px;
+    background-color: pink;
+    color: #AF558E;
+    border-radius: 10px;
+
+}
+
+.botao{
+
+    display: flex;
+    text-align: center;
+    gap: 130px ;
+    justify-content: center;
+}
+
+
+#pai{
+    display: flex;
+    gap: 130px ;
+    justify-content: space-evenly;
+    border: solid palevioletred 2px;
+    
+}
+
+h1{
+    font-family: 'Raleway', sans-serif;
+    color: #AF558E;
+    text-align: center;
+}
+
+
+
+h2{
+    font-size: 45px;
+    font-family: 'Raleway', sans-serif;
+    color: #AF558E;
+    text-align: right;
+}
+
+p{
+    font-family: 'Raleway', sans-serif;
+}
+
+.SPA{
+    background-color: pink;
+}
+

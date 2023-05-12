@@ -1,0 +1,37 @@
+
+
+
+h1{
+    text-align: center;
+    font-family: 'Roboto', sans-serif;
+    font-size: 25px;
+    color: rgb(227, 19, 22);
+}
+p {
+    text-align: justify;
+    font-family: 'Roboto', sans-serif;
+    font-size: 20px; 
+    background-color: midnightblue; 
+    color: white;
+
+}
+
+button {
+    color: crimson;
+    font-family: 'Roboto', sans-serif;
+    size: 600px;
+}
+
+.quadrinhos{
+    text-align: center;
+    border: solid cyan 5px;
+    
+}
+
+h1{
+    font-family: 'Bangers', cursive;
+}
+
+.revistas{
+    border: solid cyan 5px;
+}

@@ -1,0 +1,28 @@
+body{
+    background-color: midnightblue;
+}
+.Dccoomics {
+    background-color: white;
+}
+h1{
+    font-family: 'Bangers', cursive;
+    color: gold;
+    border: solid;
+    border-radius: 15px;
+    border-color: royalblue;
+    background-color: royalblue;
+}
+
+
+button{
+    color:blue;
+    border-radius: 10;
+    border: solid;
+    border-color: yellow;
+    background-color: deepskyblue;
+    font-family: 'Bangers', cursive;
+    padding: 25px; 
+    font-size: 20px;
+    
+
+}
