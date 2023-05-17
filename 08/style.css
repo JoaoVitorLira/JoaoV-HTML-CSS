@@ -80,12 +80,8 @@ p{
     background-color: orange;
 }
 
-.card{
-    
-    
-}
 
-+label{
+label{
     font-family: 'Raleway', sans-serif;
     font-size: 15px;
 }
@@ -118,4 +114,41 @@ fieldset{
 
 input{
     size: 30px;
+}
+
+.car{
+align-items: center;
+border: solid orange 3px;
+background-color: orange;
+}
+
+.card{
+    display: flex;
+    gap: 130px ;
+    justify-content: space-evenly;
+    align-items: center;
+    font-size: 30px;
+}
+
+.carda{
+    display: flex;
+    gap: 130px ;
+    justify-content: space-evenly;
+    align-items: center;
+    font-size: 30px; 
+}
+
+.cardap{
+    display: flex;
+    gap: 130px ;
+    justify-content: space-evenly;
+    align-items: center;
+    font-size: 30px; 
+}
+
+.conf{
+    border:solid orange 3px;
+    background-color: orange;
+    text-align: center;
+    font-family: 'Raleway', sans-serif;
 }
