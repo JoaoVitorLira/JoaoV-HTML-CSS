@@ -79,38 +79,3 @@ p{
 .info{
     background-color: orange;
 }
-
-label{
-    font-family: 'Raleway', sans-serif;
-    font-size: 15px;
-}
-
-button{
-    display: inline-block;
-    flex-direction: row;
-    justify-content: space-around;
-    border: solid orange 3px;
-    background-color: orange;
-    padding: 7px;
-    border-radius: 5px;
-    font-family: 'Raleway', sans-serif;
-    font-size: 20px;
-    color: black;
-}
-
-fieldset{
-    background-color: coral;
-}
-
-.for{
-    border: solid orange 2px;
-    display: inline;
-    align-items: center;
-    padding: 5px;
-    background-color: orange;
-    border-radius: 4px;
-}
-
-input{
-    size: 30px;
-}
